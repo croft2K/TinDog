@@ -7,11 +7,18 @@
 }
 
 .navbar{
-    margin-bottom: 7%;
+    margin-bottom: 5%;
+    margin-right: 15%;
 }
 
 .navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
     font-size: 3.5rem;
+}
+
+.nav-link{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
 }
 
 li{
