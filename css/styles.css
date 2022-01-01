@@ -6,16 +6,16 @@
     padding: 3% 15%;
 }
 
-.navbar {
-    margin-bottom: 5%;
+.navbar{
+    margin-bottom: 7%;
 }
 
 .navbar-brand {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 
-.nav-link {
-    font-size: 1rem;
+li{
+    font-size: 1.5rem;
 }
 
 h1 {
@@ -28,12 +28,14 @@ h1 {
 }
 
 .iphoneimagediv {
-    transform-origin: 0%;
-    transform: rotate(20deg);
+    transform-origin:top;
+    transform: rotate(13deg);
 }
 
 .iphoneimage {
     height: 80%;
+    margin: 10%;
+    filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71));
 }
 
 .btn {
