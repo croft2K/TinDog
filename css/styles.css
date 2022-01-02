@@ -1,5 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 #title {
@@ -10,8 +12,8 @@ body {
     padding: 3rem 2.5rem;
 }
 
-.titlediv{
-    padding-bottom:0rem;
+.titlediv {
+    padding-bottom: 0rem;
 }
 
 .navbar {
@@ -40,23 +42,23 @@ h1 {
     size: 3.5rem;
     line-height: 1.5;
     color: white;
-  
+
 }
 
 .download-button {
     margin: 1rem 0.1rem;
- 
+
 }
 
 .iphoneimagediv {
     transform-origin: top;
     transform: rotate(13deg);
- 
+
     padding-bottom: 0rem;
 }
 
 .iphoneimage {
- 
+
     padding-top: 10rem;
     padding-bottom: 3rem;
     margin-left: 2rem;
@@ -81,8 +83,7 @@ h1 {
     color: #ff4c68;
 }
 
-.feature{
-}
+.feature {}
 
 .feature-hover {
     padding-top: 2rem;
