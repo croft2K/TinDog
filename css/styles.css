@@ -51,16 +51,16 @@ h1 {
 }
 
 .iphoneimagediv {
-    transform-origin:center;
+    transform-origin: center;
     transform: rotate(9deg);
     padding: 0;
     max-width: 10%;
 }
 
 .iphoneimage {
-    height:80%;
+    height: 80%;
     /* filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71)); */
-     filter: drop-shadow(2mm 2mm 0.5rem rgb(73, 70, 71)); 
+    filter: drop-shadow(2mm 2mm 0.5rem rgb(73, 70, 71));
 }
 
 
