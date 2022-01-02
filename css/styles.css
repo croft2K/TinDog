@@ -59,6 +59,7 @@ h1 {
  
     padding-top: 10rem;
     padding-bottom: 3rem;
+    margin-left: 2rem;
     /* filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71)); */
     filter: drop-shadow(4mm 2mm 1rem rgb(73, 70, 71));
 }
