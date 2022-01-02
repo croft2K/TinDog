@@ -53,20 +53,27 @@ h1 {
 .iphoneimagediv {
     transform-origin: center;
     transform: rotate(9deg);
+    margin-top: 10%;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 0;
-    max-width: 10%;
+   
 }
 
 .iphoneimage {
-    height: 80%;
+    padding-top: 3%;
+    width: 85%;
     /* filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71)); */
     filter: drop-shadow(2mm 2mm 0.5rem rgb(73, 70, 71));
 }
 
-
-
 #features {
     text-align: center;
+}
+
+.featuresdiv{
+
 }
 
 .feature-header {
@@ -80,9 +87,7 @@ h1 {
     color: #ff4c68;
 }
 
-.feature {}
-
-.feature-hover {
+.feature {
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
