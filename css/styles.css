@@ -15,8 +15,7 @@ body {
 }
 
 .navbar {
-    /* margin-bottom: 5%;
-    margin-right: 15%; */
+
     padding: 0 0 4.5rem;
 }
 
@@ -41,23 +40,22 @@ h1 {
     size: 3.5rem;
     line-height: 1.5;
     color: white;
-    margin-bottom: 5rem;
+  
 }
 
 .download-button {
-    margin-right: 2rem;
-    margin-bottom: 2rem;
+ 
 }
 
 .iphoneimagediv {
     transform-origin: top;
     transform: rotate(13deg);
-    margin-bottom: 0rem;
+ 
     padding-bottom: 0rem;
 }
 
 .iphoneimage {
-    margin-left: 10rem;
+ 
     padding-top: 10rem;
     padding-bottom: 3rem;
     /* filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71)); */
@@ -82,8 +80,6 @@ h1 {
 }
 
 .feature{
-    margin-top: 5rem;
-    margin-bottom: 5rem;
 }
 
 .feature-hover {
