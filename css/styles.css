@@ -1,7 +1,6 @@
-
 body {
     font-family: 'Montserrat', sans-serif;
-   
+
 }
 
 #title {
@@ -42,7 +41,8 @@ h1 {
     line-height: 1.5;
     color: white;
     padding-top: 10%;
-    padding-bottom: 5%;
+    padding-bottom: 15%;
+    padding-left: 3%;
 }
 
 .apple-ico {
@@ -54,7 +54,7 @@ h1 {
 }
 
 .download-button {
-    margin: 1rem 0.1rem;
+    margin: 5% 2%;
 
 }
 
@@ -62,7 +62,7 @@ h1 {
     text-align: center;
     transform-origin: center;
     transform: rotate(9deg);
-   
+
 }
 
 .iphoneimage {
@@ -104,17 +104,17 @@ h1 {
 
 .testimonial-text {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     font-weight: 700;
     color: white;
-    padding: 10% 0;
+    padding: 0% 15%;
 }
 
 .testimonial-image {
     width: 45%;
     border-radius: 100%;
-    padding:3%;
-    
+    padding: 3%;
+
 }
 
 .testpictext {
@@ -128,7 +128,11 @@ h1 {
     background-color: #ffffff;
 }
 
-.pressimage{
+.pressimage {
     width: 80%;
     padding: 10% 0;
+}
+
+.controls {
+    padding: 10%;
 }
