@@ -1,7 +1,7 @@
+
 body {
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    padding: 0;
+   
 }
 
 #title {
@@ -9,7 +9,7 @@ body {
 }
 
 .container-fluid {
-    padding: 5%;
+    padding: 10%;
 }
 
 .titlediv {
@@ -17,17 +17,16 @@ body {
 }
 
 .navbar {
-
-    padding: 0 0 4.5rem;
+    padding: 2%;
 }
 
 .navbar-brand {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 4.5rem;
+    font-size: 4.1rem;
 }
 
 .nav-item {
-    padding: 0 1rem;
+    padding-right: 3%;
 }
 
 .nav-link {
@@ -39,12 +38,18 @@ body {
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-    size: 3.5rem;
+    size: 3.1rem;
     line-height: 1.5;
     color: white;
+    padding-top: 10%;
+    padding-bottom: 5%;
 }
 
-.ico {
+.apple-ico {
+    font-size: 1.3rem;
+}
+
+.android-ico {
     font-size: 1rem;
 }
 
@@ -54,25 +59,22 @@ h1 {
 }
 
 .iphoneimagediv {
+    text-align: center;
     transform-origin: center;
     transform: rotate(9deg);
-    margin-top: 10%;
-    margin-bottom: 0%;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 0;
-
+   
 }
 
 .iphoneimage {
-    padding-top: 3%;
-    width: 85%;
+    margin-top: 10%;
+    width: 70%;
     /* filter: drop-shadow(5mm 6mm 1rem rgb(73, 70, 71)); */
     filter: drop-shadow(2mm 2mm 0.5rem rgb(73, 70, 71));
 }
 
 #features {
     text-align: center;
+    background-color: #ffff;
 }
 
 .feature-header {
@@ -93,4 +95,40 @@ h1 {
 
 .icon-hover:hover {
     color: #e793a0;
+}
+
+.testimonialsdiv {
+    text-align: center;
+    background-color: #ff4c68;
+}
+
+.testimonial-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: white;
+    padding: 10% 0;
+}
+
+.testimonial-image {
+    width: 45%;
+    border-radius: 100%;
+    padding:3%;
+    
+}
+
+.testpictext {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 1.0rem;
+}
+
+#press {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.pressimage{
+    width: 80%;
+    padding: 10% 0;
 }
