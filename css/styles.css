@@ -9,7 +9,7 @@ body {
 
 
 .container-fluid {
-    padding: 5% 10%;
+    padding: 5% 5%;
 }
 
 .titlediv {
@@ -33,7 +33,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
-    margin-left:1%;
+    margin-left: 1%;
 }
 
 h1 {
@@ -98,11 +98,11 @@ h1 {
 }
 
 .feature {
-    padding-top:5%;
-    padding-bottom:5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
-.feature > p{
+.feature>p {
     font-size: 1.1rem;
 }
 
@@ -110,11 +110,10 @@ h1 {
     color: #e793a0;
 }
 
-#testimonials{
+#testimonials {
     text-align: center;
     background-color: #ff4c68;
-    padding-top:10%;
-    padding-bottom:5%;
+
 }
 
 .testimonial-text {
@@ -133,8 +132,8 @@ h1 {
 
 }
 
-.carousel-item{
-    padding: 0% 15%;
+.carousel-item {
+    padding: 1% 1%;
 }
 
 
@@ -157,7 +156,7 @@ h1 {
 
 
 
-#pricing{
+#pricing {
     background-color: #ff4c68;
     text-align: center;
     padding: 5%;
@@ -172,8 +171,8 @@ h1 {
     width: 100%;
 } */
 
-.card{
-    margin-top:15%;
+.card {
+    margin-top: 15%;
     border-style: solid;
     border-color: rgb(0, 0, 0);
     border-width: 2px;
@@ -194,61 +193,61 @@ h1 {
     font-weight: 700;
 }
 
-.pricingtext{
+.pricingtext {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
-    font-weight:500;
+    font-weight: 500;
     padding-top: 3%;
 }
 
-.gold{
+.gold {
     color: black;
     background-color: gold;
     font-weight: 700;
 }
 
-.silver{
+.silver {
     color: white;
     background-color: silver;
     font-weight: 700;
 }
 
-.bronze{
+.bronze {
     color: white;
-    background-color:sienna;
+    background-color: sienna;
     font-weight: 700;
 }
 
-.card-header{
+.card-header {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
     font-weight: 900;
     color: #ff4c68;
 }
 
-.card-header > h3{
-    padding-top:3%;
+.card-header>h3 {
+    padding-top: 3%;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
     font-weight: 900;
 }
 
-.card-body > h2 {
+.card-body>h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: 900;
     padding-bottom: 3%;
 }
 
-#cta{
+#cta {
     background-color: #ff4c68;
     text-align: center;
-    padding-top:5%;
+    padding-top: 5%;
     padding-bottom: 8%;
     color: white;
 }
 
-#cta > h3{
+#cta>h3 {
     padding-top: 3%;
     padding-bottom: 3%;
     font-family: 'Montserrat', sans-serif;
@@ -256,13 +255,13 @@ h1 {
     font-weight: 900;
 }
 
-#footer{
+#footer {
     text-align: center;
     background-color: #ff4c68;
     padding: 1%;
 }
 
-#footer > p{
+#footer>p {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
     font-weight: 700;
