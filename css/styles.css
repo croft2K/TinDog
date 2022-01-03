@@ -113,12 +113,13 @@ h1 {
 #testimonials {
     text-align: center;
     background-color: #ff4c68;
+    padding: 0% 0%;
 
 }
 
 .testimonial-text {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     font-weight: 700;
     color: white;
 }
@@ -133,7 +134,7 @@ h1 {
 }
 
 .carousel-item {
-    padding: 1% 1%;
+    padding: 1% 20%;
 }
 
 
