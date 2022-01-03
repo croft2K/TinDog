@@ -113,7 +113,7 @@ h1 {
 #testimonials{
     text-align: center;
     background-color: #ff4c68;
-    padding-top:5%;
+    padding-top:10%;
     padding-bottom:5%;
 }
 
@@ -137,6 +137,8 @@ h1 {
     padding: 0% 15%;
 }
 
+
+
 .testpictext {
     font-family: 'Montserrat', sans-serif;
     color: white;
@@ -153,9 +155,7 @@ h1 {
     padding: 10% 0;
 }
 
-.controls {
-    padding: 10%;
-}
+
 
 #pricing{
     background-color: #ff4c68;
@@ -190,13 +190,13 @@ h1 {
     padding-bottom: 3%;
     padding-left: 3%;
     font-family: 'Montserrat', sans-serif;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-weight: 700;
 }
 
 .pricingtext{
     font-family: 'Montserrat', sans-serif;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight:500;
     padding-top: 3%;
 }
@@ -243,7 +243,8 @@ h1 {
 #cta{
     background-color: #ff4c68;
     text-align: center;
-    padding: 5%;
+    padding-top:5%;
+    padding-bottom: 8%;
     color: white;
 }
 
