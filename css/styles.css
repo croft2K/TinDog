@@ -155,9 +155,9 @@ h1 {
     color: white;
 }
 
-.pricebtn{
+/* .pricebtn{
     width: 100%;
-}
+} */
 
 .card{
     margin-top:15%;
@@ -173,10 +173,19 @@ h1 {
 
 
 .pricingheader {
-   
     padding-top: 0%;
-    padding-bottom: 6%;
+    padding-bottom: 3%;
     padding-left: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.pricingtext{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight:500;
+    padding-top: 3%;
 }
 
 .gold{
