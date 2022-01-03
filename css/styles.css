@@ -143,3 +143,77 @@ h1 {
 .controls {
     padding: 10%;
 }
+
+#pricing{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5%;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: white;
+}
+
+.pricebtn{
+    width: 100%;
+}
+
+.card{
+    margin-top:15%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-radius: 5%;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+
+.pricingheader {
+   
+    padding-top: 0%;
+    padding-bottom: 6%;
+    padding-left: 3%;
+}
+
+.gold{
+    color: black;
+    background-color: gold;
+    font-weight: 700;
+}
+
+.silver{
+    color: white;
+    background-color: silver;
+    font-weight: 700;
+}
+
+.bronze{
+    color: white;
+    background-color:sienna;
+    font-weight: 700;
+}
+
+.card-header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 900;
+    color: #ff4c68;
+}
+
+.card-header > h3{
+    padding-top:3%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+.card-body > h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding-bottom: 3%;
+}
