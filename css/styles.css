@@ -25,6 +25,20 @@ body {
     font-size: 4.1rem;
 }
 
+@media (max-width: 900px){
+    .titlerow > h1 {
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        size: 3.1rem;
+        line-height: 1.5;
+        color: white;
+        padding-top: 10%;
+        padding-bottom: 15%;
+        padding-left: 3%;
+    }
+}
+
 .nav-item {
     padding-right: 3%;
 }
