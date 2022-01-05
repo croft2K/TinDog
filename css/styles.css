@@ -274,13 +274,15 @@ h1 {
 
 #footer {
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ffffff;
+    
     padding: 1%;
 }
 
 #footer>p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: white;
+    padding-top:2%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
 }
