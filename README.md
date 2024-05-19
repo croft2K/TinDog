@@ -12,7 +12,7 @@ This project primarily demonstrates the use of the following Bootstrap classes -
 
 The site also makes use of Google Fonts and Font Awesome icons mixed in with some custom styling and it looks great on desktop, tablet, and mobile! 
 
-https://croftee.github.io/TinDog/
+https://croft2k.github.io/TinDog/
 
 PS
 I ❤️ Bootstrap 🙂
